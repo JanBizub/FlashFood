@@ -1,0 +1,6 @@
+@FlashFood.WebAPI_HostAddress = http://localhost:5183
+
+GET {{FlashFood.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
