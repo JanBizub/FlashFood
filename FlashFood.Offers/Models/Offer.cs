@@ -4,6 +4,14 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace FlashFood.Offers.Models
 {
+    public enum OfferType
+    {
+        Standard,
+        HappyHour,
+        Combo,
+        LimitedTime
+    }
+
     public class Offer
     {
         [BsonId]
@@ -30,6 +38,13 @@ namespace FlashFood.Offers.Models
 
         [BsonElement("status")]
         public string Status { get; set; }
+
+        [BsonElement("offerType")]
+        [BsonRepresentation(BsonType.String)]
+        public OfferType OfferType {get; set; }
+
+        [BsonElement("details")]
+        public Dictionary<string, object>? OfferTypeDetails { get; set; }
     }
 
     public class User
