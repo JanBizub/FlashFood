@@ -7,11 +7,14 @@ public class Vendor
 {
     [BsonId]
     [BsonRepresentation(BsonType.String)]
-    public string Id { get; set; }
+    public string Id { get; set; } = string.Empty;
 
-    [BsonElement("name")] public string Name { get; set; }
+    [BsonElement("name")] 
+    public string Name { get; set; } = string.Empty;
 
-    [BsonElement("address")] public string Address { get; set; }
+    [BsonElement("address")] 
+    public string Address { get; set; } = string.Empty;
 
-    [BsonElement("city")] public string City { get; set; }
+    [BsonElement("city")] 
+    public string City { get; set; } = string.Empty;
 }

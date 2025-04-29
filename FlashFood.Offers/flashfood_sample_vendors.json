@@ -1,54 +1,62 @@
 [
   {
-    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f01" },
-    "name": "Joe's Pizza",
-    "address": "123 Main St, Toronto",
-    "city": "Toronto",
-    "location": {
-      "type": "Point",
-      "coordinates": [-79.3832, 43.6532]
-    },
-    "logoUrl": "https://flashfood-cdn.com/logos/joes-pizza.png",
-    "tags": ["pizza", "italian", "fast food"],
-    "createdAt": { "$date": "2025-04-25T14:00:00Z" }
+      "Id": "4e82e2b6-ec39-41e8-9f98-1630fde36663",
+      "name": "Vendor 1",
+      "address": "820 Market St",
+      "city": "Houston"
   },
   {
-    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f02" },
-    "name": "Sushi Place",
-    "address": "456 Queen St, Toronto",
-    "city": "Toronto",
-    "location": {
-      "type": "Point",
-      "coordinates": [-79.3835, 43.6538]
-    },
-    "logoUrl": "https://flashfood-cdn.com/logos/sushi-place.png",
-    "tags": ["sushi", "japanese", "seafood"],
-    "createdAt": { "$date": "2025-04-25T14:05:00Z" }
+      "Id": "870da3ee-84d4-4752-931b-022cb6a2d472",
+      "name": "Vendor 2",
+      "address": "882 Market St",
+      "city": "Phoenix"
   },
   {
-    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f03" },
-    "name": "Green Vegan",
-    "address": "789 Bloor St, Toronto",
-    "city": "Toronto",
-    "location": {
-      "type": "Point",
-      "coordinates": [-79.4000, 43.6590]
-    },
-    "logoUrl": "https://flashfood-cdn.com/logos/green-vegan.png",
-    "tags": ["vegan", "organic", "healthy"],
-    "createdAt": { "$date": "2025-04-25T14:10:00Z" }
+      "Id": "14e9dbbd-0f24-4a06-9849-2f83391e09e7",
+      "name": "Vendor 3",
+      "address": "251 Market St",
+      "city": "New York"
   },
   {
-    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f04" },
-    "name": "Daily Bakery",
-    "address": "321 King St, Ottawa",
-    "city": "Ottawa",
-    "location": {
-      "type": "Point",
-      "coordinates": [-75.6981, 45.4215]
-    },
-    "logoUrl": "https://flashfood-cdn.com/logos/daily-bakery.png",
-    "tags": ["bakery", "pastries", "coffee"],
-    "createdAt": { "$date": "2025-04-25T14:15:00Z" }
+      "Id": "b7700932-0bff-417f-bd38-5d4089d7738c",
+      "name": "Vendor 4",
+      "address": "691 Market St",
+      "city": "Houston"
+  },
+  {
+      "Id": "f8d08961-ce5e-427d-abf4-3c791724c320",
+      "name": "Vendor 5",
+      "address": "798 Market St",
+      "city": "Los Angeles"
+  },
+  {
+      "Id": "ce305b99-7e82-40ba-b0c6-bde3b73d6e1c",
+      "name": "Vendor 6",
+      "address": "613 Market St",
+      "city": "Phoenix"
+  },
+  {
+      "Id": "7872b5c3-3324-4b66-b1f4-ec6fcc0c03d4",
+      "name": "Vendor 7",
+      "address": "965 Market St",
+      "city": "Houston"
+  },
+  {
+      "Id": "131e87bf-2de1-42ff-a94a-db4954d3c9c6",
+      "name": "Vendor 8",
+      "address": "224 Market St",
+      "city": "Phoenix"
+  },
+  {
+      "Id": "ed966684-86b4-4c7b-8a3c-f55f08cd763c",
+      "name": "Vendor 9",
+      "address": "997 Market St",
+      "city": "New York"
+  },
+  {
+      "Id": "4092fc14-401f-461a-8769-ecd86f914c8a",
+      "name": "Vendor 10",
+      "address": "463 Market St",
+      "city": "Los Angeles"
   }
 ]

@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
@@ -12,24 +13,30 @@ namespace FlashFood.Offers.Models
         LimitedTime
     }
 
+    public enum OfferStatus
+    {
+        Active,
+        PickedUp,
+        Expired
+    }
+
     public class Offer
     {
         [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
-        [BsonElement("Id")]
-        public string Id { get; set; }
+        [BsonRepresentation(BsonType.String)]
+        public string Id { get; set; } = string.Empty;
 
         [BsonElement("restaurant")]
-        public string Restaurant { get; set; }
+        public string Restaurant { get; set; } = string.Empty;
 
         [BsonElement("meal")]
-        public string Meal { get; set; }
+        public string Meal { get; set; } = string.Empty;
 
         [BsonElement("price")]
         public decimal Price { get; set; }
 
         [BsonElement("user")]
-        public User User { get; set; }
+        public User User { get; set; } = new();
 
         [BsonElement("orderedAt")]
         public DateTime OrderedAt { get; set; }
@@ -38,10 +45,11 @@ namespace FlashFood.Offers.Models
         public DateTime PickupTime { get; set; }
 
         [BsonElement("status")]
-        public string Status { get; set; }
+        [BsonRepresentation(BsonType.String)]
+        public OfferStatus Status { get; set; }
         
         [BsonElement("vendorId")]
-        public string VendorId { get; set; }
+        public string VendorId { get; set; } = string.Empty;
 
         [BsonElement("offerType")]
         [BsonRepresentation(BsonType.String)]
@@ -54,9 +62,9 @@ namespace FlashFood.Offers.Models
     public class User
     {
         [BsonElement("name")]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         [BsonElement("email")]
-        public string Email { get; set; }
+        public string Email { get; set; } = string.Empty;
     }
 }
