@@ -16,6 +16,7 @@ namespace FlashFood.Offers.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
+        [BsonElement("Id")]
         public string Id { get; set; }
 
         [BsonElement("restaurant")]
@@ -38,10 +39,13 @@ namespace FlashFood.Offers.Models
 
         [BsonElement("status")]
         public string Status { get; set; }
+        
+        [BsonElement("vendorId")]
+        public string VendorId { get; set; }
 
         [BsonElement("offerType")]
         [BsonRepresentation(BsonType.String)]
-        public OfferType OfferType {get; set; }
+        public OfferType OfferType { get; set; }
 
         [BsonElement("details")]
         public Dictionary<string, object>? OfferTypeDetails { get; set; }

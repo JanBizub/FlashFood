@@ -16,6 +16,13 @@ builder.Services.AddScoped<OfferService>(sp =>
     return new OfferService(settings.ConnectionString, settings.DatabaseName, settings.CollectionName);
 });
 
+builder.Services.Configure<VendorsServiceSettings>(builder.Configuration.GetSection("VendorServiceSettings"));
+builder.Services.AddScoped<VendorsService>(sp =>
+{
+    var settings = sp.GetRequiredService<IOptions<OfferServiceSettings>>().Value;
+    return new VendorsService(settings.ConnectionString, settings.DatabaseName, settings.CollectionName);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

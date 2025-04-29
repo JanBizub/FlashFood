@@ -1,0 +1,54 @@
+[
+  {
+    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f01" },
+    "name": "Joe's Pizza",
+    "address": "123 Main St, Toronto",
+    "city": "Toronto",
+    "location": {
+      "type": "Point",
+      "coordinates": [-79.3832, 43.6532]
+    },
+    "logoUrl": "https://flashfood-cdn.com/logos/joes-pizza.png",
+    "tags": ["pizza", "italian", "fast food"],
+    "createdAt": { "$date": "2025-04-25T14:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f02" },
+    "name": "Sushi Place",
+    "address": "456 Queen St, Toronto",
+    "city": "Toronto",
+    "location": {
+      "type": "Point",
+      "coordinates": [-79.3835, 43.6538]
+    },
+    "logoUrl": "https://flashfood-cdn.com/logos/sushi-place.png",
+    "tags": ["sushi", "japanese", "seafood"],
+    "createdAt": { "$date": "2025-04-25T14:05:00Z" }
+  },
+  {
+    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f03" },
+    "name": "Green Vegan",
+    "address": "789 Bloor St, Toronto",
+    "city": "Toronto",
+    "location": {
+      "type": "Point",
+      "coordinates": [-79.4000, 43.6590]
+    },
+    "logoUrl": "https://flashfood-cdn.com/logos/green-vegan.png",
+    "tags": ["vegan", "organic", "healthy"],
+    "createdAt": { "$date": "2025-04-25T14:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "661f0f0f0f0f0f0f0f0f0f04" },
+    "name": "Daily Bakery",
+    "address": "321 King St, Ottawa",
+    "city": "Ottawa",
+    "location": {
+      "type": "Point",
+      "coordinates": [-75.6981, 45.4215]
+    },
+    "logoUrl": "https://flashfood-cdn.com/logos/daily-bakery.png",
+    "tags": ["bakery", "pastries", "coffee"],
+    "createdAt": { "$date": "2025-04-25T14:15:00Z" }
+  }
+]

@@ -1,8 +1,5 @@
-using System;
 using FlashFood.Offers.Models;
 using MongoDB.Driver;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace FlashFood.Offers.Services
 {
@@ -40,6 +37,11 @@ namespace FlashFood.Offers.Services
         public async Task DeleteOfferAsync(string id)
         {
             await _offers.DeleteOneAsync(offer => offer.Id == id);
+        }
+
+        public async Task<List<Offer>> GetOffersByVendorIdAsync(string vendorId)
+        {
+            return await _offers.Find(offer => offer.VendorId == vendorId).ToListAsync();
         }
     }
 }

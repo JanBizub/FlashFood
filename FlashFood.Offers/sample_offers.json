@@ -1,0 +1,2395 @@
+[
+  {
+    "_id": "ab077e04-85e8-426a-9736-e0c7dfde3cc6",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 13.19,
+    "originalPrice": 36.33,
+    "availableUntil": "2025-04-30T10:07:36.776007Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.94334343724522,
+        45.29556696216042
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.776007Z"
+  },
+  {
+    "_id": "a28e742e-0684-405d-b3b2-7702e75c5482",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 15.47,
+    "originalPrice": 23.3,
+    "availableUntil": "2025-05-01T10:07:36.776342Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.23829043984647,
+        43.66369161011814
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.776342Z"
+  },
+  {
+    "_id": "b7ad2a15-3137-46dd-a564-712b5f8ff71f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 19.15,
+    "originalPrice": 32.17,
+    "availableUntil": "2025-05-05T10:07:36.776498Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.88386404604263,
+        45.07556244809963
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.776498Z"
+  },
+  {
+    "_id": "a5849a17-52dc-48f4-8bef-a008b4e1c26f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 5.41,
+    "originalPrice": 32.82,
+    "availableUntil": "2025-05-05T10:07:36.776574Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.14475518896705,
+        45.28400688787201
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.776574Z"
+  },
+  {
+    "_id": "75ab403e-f0da-445a-a45a-034ab499c072",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 18.82,
+    "originalPrice": 30.03,
+    "availableUntil": "2025-05-06T10:07:36.776984Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.519710002196,
+        44.651403476951444
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.776984Z"
+  },
+  {
+    "_id": "62a51ecd-bff7-49fd-a554-7fab61210570",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 9.92,
+    "originalPrice": 31.09,
+    "availableUntil": "2025-05-02T10:07:36.777462Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.08025390703442,
+        44.64416034312784
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777462Z"
+  },
+  {
+    "_id": "e2057455-e2b7-4f20-9968-7471b1a7bf85",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 13.4,
+    "originalPrice": 38.99,
+    "availableUntil": "2025-05-07T10:07:36.777552Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.33542878757746,
+        43.852107853824165
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777552Z"
+  },
+  {
+    "_id": "b2d4f580-223d-4130-aabb-38767c05cd98",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 18.17,
+    "originalPrice": 21.31,
+    "availableUntil": "2025-05-08T10:07:36.777594Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.27196166568915,
+        45.13565743922956
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777594Z"
+  },
+  {
+    "_id": "a0bb7457-0875-4dd8-b2cd-9f3ed3d890ed",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 16.6,
+    "originalPrice": 29.06,
+    "availableUntil": "2025-05-09T10:07:36.777623Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.78809186692406,
+        44.48456437815659
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777623Z"
+  },
+  {
+    "_id": "4cf734ae-ac43-46f4-b4cd-b9ab64cdbeef",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 15.56,
+    "originalPrice": 37.58,
+    "availableUntil": "2025-05-04T10:07:36.777690Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.51761762882171,
+        44.08257362328807
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777690Z"
+  },
+  {
+    "_id": "affae95c-64d8-4eb0-b5bf-8cc285356098",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 5.47,
+    "originalPrice": 37.34,
+    "availableUntil": "2025-05-09T10:07:36.777734Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.1572722548547,
+        44.16132642753379
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777734Z"
+  },
+  {
+    "_id": "210f12e6-5591-4d59-8da9-4b8c5d40d717",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 16.62,
+    "originalPrice": 37.06,
+    "availableUntil": "2025-05-04T10:07:36.777803Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.86646477930128,
+        45.24209708919603
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777803Z"
+  },
+  {
+    "_id": "2b9028a8-dcc2-4fd0-8a2f-839d850caeba",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 14.33,
+    "originalPrice": 35.85,
+    "availableUntil": "2025-04-30T10:07:36.777947Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.32300292141257,
+        44.568757470226394
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777947Z"
+  },
+  {
+    "_id": "05ff553a-c35a-4549-a949-0ee34fc4af92",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 5.54,
+    "originalPrice": 24.0,
+    "availableUntil": "2025-05-05T10:07:36.777970Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.03095016999387,
+        44.19385607747153
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777970Z"
+  },
+  {
+    "_id": "23cf4729-bfa1-4973-9315-dd13892e60d2",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 7.36,
+    "originalPrice": 30.46,
+    "availableUntil": "2025-05-06T10:07:36.777996Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.82948094804503,
+        44.509819037687556
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.777996Z"
+  },
+  {
+    "_id": "5356f1b9-e8fc-48cd-9777-107d74a17721",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 16.87,
+    "originalPrice": 23.51,
+    "availableUntil": "2025-05-03T10:07:36.778031Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.02515611866633,
+        43.682266839701775
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778031Z"
+  },
+  {
+    "_id": "c9590e5e-21d9-4704-9f91-94847478e434",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 14.7,
+    "originalPrice": 38.65,
+    "availableUntil": "2025-05-01T10:07:36.778048Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.35410404573663,
+        43.862902119285096
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778048Z"
+  },
+  {
+    "_id": "4e3162a0-fd78-4c21-abd5-d6f06a27d745",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 16.9,
+    "originalPrice": 21.6,
+    "availableUntil": "2025-05-05T10:07:36.778067Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.84003923216054,
+        43.858428929189515
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778067Z"
+  },
+  {
+    "_id": "953eec39-c0b4-4910-8318-6cd8d82592a3",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 11.09,
+    "originalPrice": 35.56,
+    "availableUntil": "2025-05-03T10:07:36.778084Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.36482137191032,
+        43.96626054492132
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778084Z"
+  },
+  {
+    "_id": "74fbb2d3-d32c-4626-9f55-00d01b2fa8f3",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 17.33,
+    "originalPrice": 29.89,
+    "availableUntil": "2025-05-07T10:07:36.778102Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.0190153921143,
+        45.37282709193169
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778102Z"
+  },
+  {
+    "_id": "690c2542-b9a1-45ef-9391-29486d93067a",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 14.86,
+    "originalPrice": 34.92,
+    "availableUntil": "2025-05-09T10:07:36.778133Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.65490525591213,
+        45.275291348143135
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778133Z"
+  },
+  {
+    "_id": "32730a00-73a2-4500-aa81-d378e452c395",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 9.35,
+    "originalPrice": 21.43,
+    "availableUntil": "2025-05-02T10:07:36.778151Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.10651387690122,
+        43.80908975554106
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778151Z"
+  },
+  {
+    "_id": "16469ad0-60aa-4a9b-8ef7-a47dc5e12c28",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 10.6,
+    "originalPrice": 39.42,
+    "availableUntil": "2025-05-04T10:07:36.778170Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.54603386291784,
+        45.32355356719136
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778170Z"
+  },
+  {
+    "_id": "613d8218-29c3-4245-b6d0-9fa7a52ee54a",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 8.53,
+    "originalPrice": 23.74,
+    "availableUntil": "2025-05-06T10:07:36.778187Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.19506222475174,
+        44.166943961801884
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778187Z"
+  },
+  {
+    "_id": "d824ebfa-c118-471d-a6aa-9705c0c48b52",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 8.76,
+    "originalPrice": 31.39,
+    "availableUntil": "2025-05-09T10:07:36.778215Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.6564279570259,
+        45.05673644824392
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778215Z"
+  },
+  {
+    "_id": "53ac5550-3caa-421c-9e73-57f9723b3516",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 7.5,
+    "originalPrice": 23.71,
+    "availableUntil": "2025-05-06T10:07:36.778256Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.19403596114597,
+        44.71043652821695
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778256Z"
+  },
+  {
+    "_id": "4f74bfbc-aa23-4b6c-902f-684ff0675388",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 19.11,
+    "originalPrice": 29.22,
+    "availableUntil": "2025-05-09T10:07:36.778283Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.15465981322818,
+        44.279326035287355
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778283Z"
+  },
+  {
+    "_id": "6cc5d6e5-65e4-4909-bbfc-ec4c1e51e6e5",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 7.37,
+    "originalPrice": 29.97,
+    "availableUntil": "2025-05-08T10:07:36.778299Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.90016412025051,
+        45.43970036280138
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778299Z"
+  },
+  {
+    "_id": "2e64cecd-e47a-47c3-8c9a-a0ed7ca7c795",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 7.91,
+    "originalPrice": 24.53,
+    "availableUntil": "2025-05-01T10:07:36.778316Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.15206002786167,
+        44.79516885169935
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778316Z"
+  },
+  {
+    "_id": "89acc262-6ffc-4438-a5e5-7e4112fc0e4d",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 13.5,
+    "originalPrice": 31.24,
+    "availableUntil": "2025-05-07T10:07:36.778332Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.32646589710953,
+        44.73272419540105
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778332Z"
+  },
+  {
+    "_id": "bd172d06-889b-4a54-a360-3c2e65d2d551",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 13.81,
+    "originalPrice": 26.52,
+    "availableUntil": "2025-05-04T10:07:36.778347Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.63208092610006,
+        45.18381207352208
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778347Z"
+  },
+  {
+    "_id": "13c2734b-c68b-45fb-b43d-1ae64b1335f9",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 14.31,
+    "originalPrice": 27.3,
+    "availableUntil": "2025-05-07T10:07:36.778362Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.80723390788754,
+        45.26821978376272
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778362Z"
+  },
+  {
+    "_id": "04eb8b3d-0184-4bd9-a6ac-198101558edf",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 18.05,
+    "originalPrice": 37.84,
+    "availableUntil": "2025-05-04T10:07:36.778380Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.24515071159371,
+        44.31497666136322
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778380Z"
+  },
+  {
+    "_id": "9511aa7e-b6fc-4467-a13e-55f9e4a09e52",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 12.41,
+    "originalPrice": 24.65,
+    "availableUntil": "2025-04-30T10:07:36.778398Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.21463729287943,
+        44.001175955753254
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778398Z"
+  },
+  {
+    "_id": "00990d10-b386-4662-ac73-26d851649247",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 18.6,
+    "originalPrice": 36.71,
+    "availableUntil": "2025-05-05T10:07:36.778413Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.91022304041716,
+        44.580771537331124
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778413Z"
+  },
+  {
+    "_id": "8017aca0-178c-47f6-9575-acd8ebfee977",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 6.48,
+    "originalPrice": 25.39,
+    "availableUntil": "2025-05-07T10:07:36.778430Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.935532191786,
+        44.846526258110494
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778430Z"
+  },
+  {
+    "_id": "44e70d49-cac3-4fbb-8d57-53f7332f7126",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 5.02,
+    "originalPrice": 34.87,
+    "availableUntil": "2025-05-05T10:07:36.778455Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.80826598312755,
+        43.814448319949854
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-1.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778455Z"
+  },
+  {
+    "_id": "a91c95ef-a2e1-432a-986f-a00449c43ac4",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 8.4,
+    "originalPrice": 36.19,
+    "availableUntil": "2025-05-06T10:07:36.778470Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.71249338440474,
+        44.40790632034335
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778470Z"
+  },
+  {
+    "_id": "45d16e03-5fde-4901-93e4-cbb5fa297f18",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 19.93,
+    "originalPrice": 27.48,
+    "availableUntil": "2025-04-30T10:07:36.778488Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.9695827042367,
+        43.895569907446294
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-4.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778488Z"
+  },
+  {
+    "_id": "085d593c-569b-492a-8797-90bfc64c672f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 11.73,
+    "originalPrice": 39.84,
+    "availableUntil": "2025-05-03T10:07:36.778537Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.44559897613041,
+        43.94294862850186
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778537Z"
+  },
+  {
+    "_id": "756042ad-4f1e-4e90-a7fa-0f0485c892c4",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 17.89,
+    "originalPrice": 27.16,
+    "availableUntil": "2025-05-06T10:07:36.778566Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.73689491099243,
+        44.472272328553004
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778566Z"
+  },
+  {
+    "_id": "b8dac953-980d-4bd1-9f6b-b87d2a07f756",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 10.17,
+    "originalPrice": 38.65,
+    "availableUntil": "2025-05-07T10:07:36.778582Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.41559210733742,
+        44.789186994506615
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778582Z"
+  },
+  {
+    "_id": "265095e6-866a-4d89-af11-243fc31eddce",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 10.98,
+    "originalPrice": 30.63,
+    "availableUntil": "2025-05-07T10:07:36.778598Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.9149746829791,
+        45.079787413397725
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778598Z"
+  },
+  {
+    "_id": "545a5b21-1b49-4f27-8638-05612e2b99e6",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 13.67,
+    "originalPrice": 29.56,
+    "availableUntil": "2025-05-05T10:07:36.778622Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.54151424993623,
+        43.71994716637368
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-4.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778622Z"
+  },
+  {
+    "_id": "9bd5807a-f919-4976-8f3a-75a63b703d84",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 19.25,
+    "originalPrice": 29.18,
+    "availableUntil": "2025-05-07T10:07:36.778647Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.928366766814,
+        44.4736973336799
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778647Z"
+  },
+  {
+    "_id": "2b8dce8b-2a6a-4887-b1d3-9c62172954da",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 7.87,
+    "originalPrice": 38.33,
+    "availableUntil": "2025-05-04T10:07:36.778663Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.75073277505457,
+        44.23448344913487
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778663Z"
+  },
+  {
+    "_id": "75c63662-66e6-4ad4-83de-eb0d4d2013a0",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 13.33,
+    "originalPrice": 29.47,
+    "availableUntil": "2025-05-03T10:07:36.778678Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.50837708485962,
+        43.70367549782838
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778678Z"
+  },
+  {
+    "_id": "6aeb952c-43bb-4700-ae4a-9738d656470f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 7.32,
+    "originalPrice": 35.16,
+    "availableUntil": "2025-05-01T10:07:36.778694Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.9073287822773,
+        44.90995968062849
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778694Z"
+  },
+  {
+    "_id": "c22c7c80-9b89-4d2c-8c4e-abcd80a8d98d",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 7.42,
+    "originalPrice": 20.81,
+    "availableUntil": "2025-05-06T10:07:36.778709Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.8209096813197,
+        45.10202732608739
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-1.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778709Z"
+  },
+  {
+    "_id": "470db42c-68f9-4c2c-a6be-35b2354d2b3f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 8.05,
+    "originalPrice": 25.32,
+    "availableUntil": "2025-05-05T10:07:36.778724Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.84272492119548,
+        45.19938277021537
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778724Z"
+  },
+  {
+    "_id": "3d9838a2-bf10-438d-ad06-a1176e9c8b20",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 18.66,
+    "originalPrice": 37.19,
+    "availableUntil": "2025-05-02T10:07:36.778741Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.46702124360195,
+        44.21319531701471
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778741Z"
+  },
+  {
+    "_id": "1a351cb7-6204-400e-baeb-f7de1d7dc92b",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 15.13,
+    "originalPrice": 30.26,
+    "availableUntil": "2025-05-05T10:07:36.778756Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.37120699237657,
+        43.88530566434337
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778756Z"
+  },
+  {
+    "_id": "00304fd5-8800-4f1f-9266-42592bed7b26",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 9.77,
+    "originalPrice": 23.14,
+    "availableUntil": "2025-05-08T10:07:36.778771Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.93302372520948,
+        44.3942804709027
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778771Z"
+  },
+  {
+    "_id": "e0c95260-13d5-4fd1-8c84-b9dd1b722341",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 14.72,
+    "originalPrice": 21.98,
+    "availableUntil": "2025-05-08T10:07:36.778786Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.19424219034279,
+        45.49886157037768
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778786Z"
+  },
+  {
+    "_id": "805b19b2-eb63-4eca-9fe5-a9ebd2b8c81b",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 8.04,
+    "originalPrice": 28.89,
+    "availableUntil": "2025-05-02T10:07:36.778801Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.7328456168673,
+        45.20668956951077
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778801Z"
+  },
+  {
+    "_id": "04dce922-e7d6-4945-aa83-029c81653bb6",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 8.74,
+    "originalPrice": 39.28,
+    "availableUntil": "2025-05-09T10:07:36.778821Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.86625189110073,
+        44.762325410815656
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778821Z"
+  },
+  {
+    "_id": "22f54476-59eb-4dcb-b11c-2a83f67bf58e",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 10.74,
+    "originalPrice": 35.41,
+    "availableUntil": "2025-04-30T10:07:36.778837Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.41316769714221,
+        44.65129669282864
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778837Z"
+  },
+  {
+    "_id": "9b1fb4ac-80a6-4b25-afb9-c4268ea0ade0",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 19.33,
+    "originalPrice": 22.85,
+    "availableUntil": "2025-05-06T10:07:36.778852Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.13599500749984,
+        44.39094005956927
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778852Z"
+  },
+  {
+    "_id": "91c11bd1-d087-47e4-a678-c58be52daaab",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 7.57,
+    "originalPrice": 25.54,
+    "availableUntil": "2025-05-05T10:07:36.778867Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.4969060744202,
+        45.109305680308125
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778867Z"
+  },
+  {
+    "_id": "1ad1cef3-e499-4bf8-ac2b-0d89b48f3ee0",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 19.25,
+    "originalPrice": 26.36,
+    "availableUntil": "2025-04-30T10:07:36.778881Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.9040654910577,
+        44.123644753440196
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778881Z"
+  },
+  {
+    "_id": "cb2a0cef-57a0-400c-81b3-aacb4b8fcad0",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 16.26,
+    "originalPrice": 39.79,
+    "availableUntil": "2025-05-01T10:07:36.778906Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.01324289423233,
+        44.66967382822175
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778906Z"
+  },
+  {
+    "_id": "27e4912f-f878-4d55-8edf-be0ded3a4b4b",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 8.48,
+    "originalPrice": 22.47,
+    "availableUntil": "2025-05-06T10:07:36.778934Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.9118506570468,
+        45.15858255732163
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-4.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.778934Z"
+  },
+  {
+    "_id": "54a14e4a-9cc5-46a5-9644-557fe34c152c",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 7.35,
+    "originalPrice": 24.94,
+    "availableUntil": "2025-05-03T10:07:36.779143Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.38773227717961,
+        44.02630646323664
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779143Z"
+  },
+  {
+    "_id": "6fdf1ef5-8634-4e69-90ff-ef66a7c596d3",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 15.62,
+    "originalPrice": 32.11,
+    "availableUntil": "2025-04-30T10:07:36.779188Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.04950115579416,
+        43.823324935788584
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779188Z"
+  },
+  {
+    "_id": "d89c10d4-f62b-4eb7-b39d-26bba5a39372",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 7.51,
+    "originalPrice": 32.42,
+    "availableUntil": "2025-05-01T10:07:36.779239Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.02354957240591,
+        44.049595672608476
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779239Z"
+  },
+  {
+    "_id": "4dfcc430-5510-46f4-9ff8-c80fc843fd41",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 18.7,
+    "originalPrice": 33.47,
+    "availableUntil": "2025-05-08T10:07:36.779270Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.7506547025778,
+        43.777175355950796
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779270Z"
+  },
+  {
+    "_id": "af3c9cd4-6b22-4aad-84b2-78c95a3d35cd",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 11.91,
+    "originalPrice": 34.98,
+    "availableUntil": "2025-05-08T10:07:36.779310Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.75811043933211,
+        45.00059608549822
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779310Z"
+  },
+  {
+    "_id": "3acf84dd-5311-4a4a-b3e0-54f9d03b699f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 8.33,
+    "originalPrice": 36.26,
+    "availableUntil": "2025-05-09T10:07:36.779350Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.95430893208464,
+        43.904178613885435
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779350Z"
+  },
+  {
+    "_id": "6bc18642-9523-4b99-a8c3-d58b07c320f2",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 10.59,
+    "originalPrice": 26.97,
+    "availableUntil": "2025-05-09T10:07:36.779386Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.19876063026582,
+        44.386465431202346
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779386Z"
+  },
+  {
+    "_id": "c4f71632-be1e-4e43-83cf-46331d6db099",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 16.48,
+    "originalPrice": 34.28,
+    "availableUntil": "2025-05-04T10:07:36.779413Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.98747638879294,
+        44.94259796091833
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779413Z"
+  },
+  {
+    "_id": "8aedbdfa-f1cc-4d18-937e-73183ef4218f",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 16.79,
+    "originalPrice": 39.09,
+    "availableUntil": "2025-05-08T10:07:36.779440Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.25934091071986,
+        43.72941956485413
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779440Z"
+  },
+  {
+    "_id": "7a44a996-217e-498c-a038-4971a29fefc9",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 11.4,
+    "originalPrice": 35.59,
+    "availableUntil": "2025-05-06T10:07:36.779472Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.03083183954487,
+        45.2595110671003
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779472Z"
+  },
+  {
+    "_id": "84b3dde8-392c-46ab-afef-6b52cee6dc2a",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 11.28,
+    "originalPrice": 29.41,
+    "availableUntil": "2025-04-30T10:07:36.779488Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.75661288032188,
+        44.10384395583452
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-10.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779488Z"
+  },
+  {
+    "_id": "8b902317-a5bb-4496-ac93-fbff11f9b89e",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 7.81,
+    "originalPrice": 30.41,
+    "availableUntil": "2025-05-03T10:07:36.779506Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.61295140289458,
+        44.24346147498854
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779506Z"
+  },
+  {
+    "_id": "08b4f9e2-6fa9-4055-aa48-e279fca64240",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 5.68,
+    "originalPrice": 38.38,
+    "availableUntil": "2025-05-06T10:07:36.779531Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.79279591052777,
+        44.18202684563017
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-7.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779531Z"
+  },
+  {
+    "_id": "0509fda0-f037-43a9-a860-7a4682234eea",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 18.31,
+    "originalPrice": 20.17,
+    "availableUntil": "2025-05-03T10:07:36.779570Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.27329337265019,
+        45.00289571132947
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779570Z"
+  },
+  {
+    "_id": "ef75ebb5-5643-4705-bdab-6179445663ce",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 15.74,
+    "originalPrice": 33.87,
+    "availableUntil": "2025-05-08T10:07:36.779592Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.23766668799473,
+        45.39557958126413
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779592Z"
+  },
+  {
+    "_id": "24c72586-196a-49c2-9347-c6fde7b02d13",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 18.88,
+    "originalPrice": 36.71,
+    "availableUntil": "2025-05-02T10:07:36.779616Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.75150281548954,
+        44.390598566983364
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779616Z"
+  },
+  {
+    "_id": "3372cf6f-3a10-4ea9-be32-ee41d6b5c275",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 8.83,
+    "originalPrice": 29.86,
+    "availableUntil": "2025-05-01T10:07:36.779644Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.90191380667551,
+        43.88121740896369
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-1.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779644Z"
+  },
+  {
+    "_id": "3ce1a169-fa78-4afb-b0d7-e5ec0bc4cd76",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 18.71,
+    "originalPrice": 31.04,
+    "availableUntil": "2025-05-02T10:07:36.779662Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.52000515278486,
+        44.98663810242147
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-4.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779662Z"
+  },
+  {
+    "_id": "5b8786e8-d4d8-4a61-bfa2-bc49c1041d73",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 15.56,
+    "originalPrice": 20.09,
+    "availableUntil": "2025-05-05T10:07:36.779677Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.20864682524969,
+        44.55934727245772
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-4.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779677Z"
+  },
+  {
+    "_id": "10a66990-7ea9-47e4-8f4a-82c63e569627",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 10.64,
+    "originalPrice": 33.12,
+    "availableUntil": "2025-05-03T10:07:36.779701Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.11896915865057,
+        43.63428548739524
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779701Z"
+  },
+  {
+    "_id": "cbf9f2a4-2ad6-4d73-9a8f-a351a9485e83",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 5.88,
+    "originalPrice": 25.35,
+    "availableUntil": "2025-05-01T10:07:36.779730Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.11832390295841,
+        45.339285318401
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779730Z"
+  },
+  {
+    "_id": "539b9a58-6c42-4d2f-9e2f-c3fdca720262",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 12.89,
+    "originalPrice": 37.73,
+    "availableUntil": "2025-05-02T10:07:36.779757Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.8646195352395,
+        45.48385985749486
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779757Z"
+  },
+  {
+    "_id": "a6f4bebf-56aa-4cda-8470-929572d4bc95",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 13.94,
+    "originalPrice": 29.53,
+    "availableUntil": "2025-05-08T10:07:36.779771Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.99970625721821,
+        43.647526543493825
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779771Z"
+  },
+  {
+    "_id": "9e7831c8-f8a8-411e-8257-a661c59c34cd",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 13.08,
+    "originalPrice": 35.32,
+    "availableUntil": "2025-04-30T10:07:36.779786Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.90872122613644,
+        43.86212121988092
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779786Z"
+  },
+  {
+    "_id": "cd640b3c-4c92-4459-a9d9-ec67ee42dcb0",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Vegan Salad Special",
+    "description": "Special offer on vegan salad special! Limited time.",
+    "price": 18.73,
+    "originalPrice": 39.6,
+    "availableUntil": "2025-05-08T10:07:36.779802Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.87325784369226,
+        43.71347855773096
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "vegan",
+      "organic"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779802Z"
+  },
+  {
+    "_id": "982639f7-a9a4-4fd5-beef-8d48721841e6",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 7.37,
+    "originalPrice": 20.95,
+    "availableUntil": "2025-05-07T10:07:36.779818Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.45568667736164,
+        43.83875892954022
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779818Z"
+  },
+  {
+    "_id": "9e8df01e-3063-4370-a574-07ee863e176c",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Happy Hour: 2-for-1 Pizza Slices",
+    "description": "Special offer on happy hour: 2-for-1 pizza slices! Limited time.",
+    "price": 14.11,
+    "originalPrice": 37.41,
+    "availableUntil": "2025-05-09T10:07:36.779832Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.43245256554064,
+        43.76292449110538
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "happy hour"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779832Z"
+  },
+  {
+    "_id": "bc6edc39-5138-487f-a368-f69c9838554b",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Bagel and Coffee Combo",
+    "description": "Special offer on bagel and coffee combo! Limited time.",
+    "price": 16.88,
+    "originalPrice": 25.08,
+    "availableUntil": "2025-05-04T10:07:36.779926Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.4882347862991,
+        44.43423724319083
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "pastries",
+      "breakfast"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779926Z"
+  },
+  {
+    "_id": "7606954b-066b-4a32-96ab-f27eb1a61160",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Half-Price Sashimi Platter",
+    "description": "Special offer on half-price sashimi platter! Limited time.",
+    "price": 12.28,
+    "originalPrice": 25.78,
+    "availableUntil": "2025-05-06T10:07:36.779954Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.50396943228338,
+        44.4922846571008
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-5.jpg"
+    ],
+    "tags": [
+      "seafood",
+      "fresh"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779954Z"
+  },
+  {
+    "_id": "08f7ea02-301e-46aa-b8bf-fa71ef70c783",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 18.23,
+    "originalPrice": 39.78,
+    "availableUntil": "2025-05-06T10:07:36.779969Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.882277687125,
+        44.64006458581404
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779969Z"
+  },
+  {
+    "_id": "f3ae4223-b430-48f8-b35f-a35f32fb7580",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 5.79,
+    "originalPrice": 24.74,
+    "availableUntil": "2025-05-04T10:07:36.779984Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.53493503737353,
+        44.14475577413947
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.779984Z"
+  },
+  {
+    "_id": "668fed39-febf-4467-8941-27ae0c88c118",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 8.2,
+    "originalPrice": 25.24,
+    "availableUntil": "2025-05-01T10:07:36.780001Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.39872805243752,
+        45.18798305441793
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-2.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780001Z"
+  },
+  {
+    "_id": "cbe5d1e9-225d-4401-a806-55b93e1c9f78",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Limited Time Vegan Wrap",
+    "description": "Special offer on limited time vegan wrap! Limited time.",
+    "price": 9.38,
+    "originalPrice": 30.97,
+    "availableUntil": "2025-05-01T10:07:36.780015Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.07612389346758,
+        43.779497156612315
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-8.jpg"
+    ],
+    "tags": [
+      "wraps",
+      "healthy"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780015Z"
+  },
+  {
+    "_id": "7a47bb61-3bcb-4805-8b7d-7ca739f8ab56",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f02",
+    "title": "Buy 1 Get 1 Free Sushi Rolls",
+    "description": "Special offer on buy 1 get 1 free sushi rolls! Limited time.",
+    "price": 9.57,
+    "originalPrice": 23.61,
+    "availableUntil": "2025-05-04T10:07:36.780031Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.6559827422707,
+        44.780458079392375
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "sushi",
+      "seafood"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780031Z"
+  },
+  {
+    "_id": "38aed73e-5199-45fb-a093-269f23cda45c",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Family Meal Deal",
+    "description": "Special offer on family meal deal! Limited time.",
+    "price": 17.58,
+    "originalPrice": 20.79,
+    "availableUntil": "2025-05-07T10:07:36.780046Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.55947769292246,
+        43.75938594259283
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-9.jpg"
+    ],
+    "tags": [
+      "combo",
+      "family"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780046Z"
+  },
+  {
+    "_id": "6fe2bffc-de29-4ac0-a5dd-d05ac6100bab",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f03",
+    "title": "Fresh Croissants 30% Off",
+    "description": "Special offer on fresh croissants 30% off! Limited time.",
+    "price": 5.44,
+    "originalPrice": 25.45,
+    "availableUntil": "2025-05-04T10:07:36.780060Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.81097621960551,
+        45.33133454115206
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-6.jpg"
+    ],
+    "tags": [
+      "bakery",
+      "coffee"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780060Z"
+  },
+  {
+    "_id": "cd3309bf-0b62-4dd5-8a9f-de1bb4d08686",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f04",
+    "title": "50% Off Large Pepperoni Pizza",
+    "description": "Special offer on 50% off large pepperoni pizza! Limited time.",
+    "price": 12.48,
+    "originalPrice": 21.41,
+    "availableUntil": "2025-05-07T10:07:36.780075Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.14753821155182,
+        45.37197991141796
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-3.jpg"
+    ],
+    "tags": [
+      "pizza",
+      "italian"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780075Z"
+  },
+  {
+    "_id": "fef61934-8ea7-4c2b-a1fe-57eb39feee26",
+    "providerId": "661f0f0f0f0f0f0f0f0f0f01",
+    "title": "Organic Smoothie Discount",
+    "description": "Special offer on organic smoothie discount! Limited time.",
+    "price": 16.62,
+    "originalPrice": 26.23,
+    "availableUntil": "2025-04-30T10:07:36.780093Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.99907599928412,
+        44.16355841981591
+      ]
+    },
+    "images": [
+      "https://flashfood-cdn.com/images/offer-1.jpg"
+    ],
+    "tags": [
+      "healthy",
+      "smoothie"
+    ],
+    "createdAt": "2025-04-29T10:07:36.780093Z"
+  }
+]
