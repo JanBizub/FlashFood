@@ -19,7 +19,7 @@ builder.Services.AddScoped<OfferService>(sp =>
 builder.Services.Configure<VendorsServiceSettings>(builder.Configuration.GetSection("VendorServiceSettings"));
 builder.Services.AddScoped<VendorsService>(sp =>
 {
-    var settings = sp.GetRequiredService<IOptions<OfferServiceSettings>>().Value;
+    var settings = sp.GetRequiredService<IOptions<VendorsServiceSettings>>().Value;
     return new VendorsService(settings.ConnectionString, settings.DatabaseName, settings.CollectionName);
 });
 

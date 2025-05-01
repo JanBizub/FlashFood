@@ -23,8 +23,8 @@ namespace FlashFood.Offers.Models
     public class Offer
     {
         [BsonId]
-        [BsonRepresentation(BsonType.String)]
-        public string Id { get; set; } = string.Empty;
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; }
 
         [BsonElement("restaurant")]
         public string Restaurant { get; set; } = string.Empty;
@@ -48,7 +48,7 @@ namespace FlashFood.Offers.Models
         [BsonRepresentation(BsonType.String)]
         public OfferStatus Status { get; set; }
         
-        [BsonElement("vendorId")]
+        [BsonElement("vendor_id")]
         public string VendorId { get; set; } = string.Empty;
 
         [BsonElement("offerType")]
